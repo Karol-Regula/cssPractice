@@ -1,0 +1,35 @@
+head{
+	color: blue;
+}
+
+body{
+	color: green;
+	background-color: #EFC274;
+}
+
+h1{
+	color: blue;
+	text-align: center;
+	text-shadow: 20px 20px 10px #ff0000;
+ 	letter-spacing: -50px;
+}
+
+h3{
+	color: #00FFAA;
+}
+
+ul{
+	list-style-type: armenian;
+}
+
+h2{
+	letter-spacing: -10px;
+	text-align: right;
+}
+
+p{
+	color: purple;
+	text-transform: uppercase;
+	text-indent: 500px;
+ 	letter-spacing: 100px;
+}
