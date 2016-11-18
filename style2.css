@@ -37,6 +37,10 @@ p{
 	white-space: pre-wrap;
 }
 
+div{
+	padding: 5px;
+}
+
 .extreme{
 	border-width: thick;
 	border-style: dotted;
