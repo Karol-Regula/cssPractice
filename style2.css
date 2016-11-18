@@ -36,3 +36,33 @@ p{
 	padding: 100px;
 	white-space: pre-wrap;
 }
+
+.extreme{
+	border-width: thick;
+	border-style: dotted;
+	border-color: goldenrod;
+}
+
+.navzone{
+	border-width: 20px;
+	border-style: groove;
+	border-color: blue;
+}
+
+.content{
+	border-top-color: brown;
+	border-top-width: 2px;
+	border-top-style: inset;
+}
+
+.prose{
+	text-transform: uppercase;
+}
+
+#head1{
+	font-size: 4em;
+}
+
+#tehlulz{
+	text-decoration: line-through;
+}
